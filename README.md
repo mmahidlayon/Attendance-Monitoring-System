@@ -9,8 +9,8 @@ The goal of this project is both practical (helping our dojo) and educational (s
 
 # Developer's Guide
 **1. Database Setup (MySQL)**  
-        -  Install MySQL Server + Workbench  
-           -  Download from [MySQL Official Site] (https://dev.mysql.com/downloads/installer/)  
-           -  Install MySQL Server and Workbench (Router/Bench not strictly required, but no harm installing).  
-        -  Create database, tables, and try queries
+  -  Install MySQL Server + Workbench  
+     -  Download from [MySQL Official Site] (https://dev.mysql.com/downloads/installer/)  
+     -  Install MySQL Server and Workbench (Router/Bench not strictly required, but no harm installing).  
+  -  Create database, tables, and try queries
 
