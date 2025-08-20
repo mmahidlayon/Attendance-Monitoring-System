@@ -6,3 +6,11 @@ In our dojo, students (aikidoka) are required to complete a specific number of t
 - **Admin** (Sensei or Senpai) – to monitor attendance of all students
 
 The goal of this project is both practical (helping our dojo) and educational (serving as a learning project for web development using Python, Flask, MySQL, and Bootstrap).
+
+# Developer's Guide
+** 1. Database Setup (MySQL)**
+      - Install MySQL Server + Workbench  
+            - Download from [MySQL Official Site] (https://dev.mysql.com/downloads/installer/)  
+            - Install MySQL Server and Workbench (Router/Bench not strictly required, but no harm installing).
+      - Create database, tables, and try queries
+
