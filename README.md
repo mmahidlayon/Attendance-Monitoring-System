@@ -1,6 +1,5 @@
-# Project Description
-The Attendance Monitoring System is a web-based application system
-designed for our Aikido dojo, Sacred Heart Aikido Center Cebu.
+# Attendance Monitoring System
+A web-based application system designed for our Aikido dojo, Sacred Heart Aikido Center Cebu.
 
 In our dojo, students (aikidoka) are required to complete a specific number of training sessions before they can take promotion exams (e.g., 45 sessions for 6th to 5th kyu, 60 sessions for 5th to 4th kyu, etc.). This system provides a convenient way for:
 **Students** – to log and track their own attendance progress toward the next rank.
